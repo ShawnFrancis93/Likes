@@ -1,0 +1,26 @@
+.userbox{
+    border:3px solid black;
+    width:380px;
+    height:200px;
+}
+h3{
+    margin:0px;
+    padding:15px 15px;
+    display: inline-block;
+}
+
+#count{
+    display:inline-block;
+    padding-left:110px;
+}
+
+p{
+    margin:0px;
+    padding:10px 15px;
+}
+#like{
+    width:50px;
+    margin-left: 10px;
+    background-color: lightyellow;
+    box-shadow: 2px 4px;
+}
